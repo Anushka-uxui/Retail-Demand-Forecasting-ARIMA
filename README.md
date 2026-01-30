@@ -1,3 +1,5 @@
+Retail-Demand-Forecasting-ARIMA
+
 This project is designed to forecast daily retail sales across various product families using the ARIMA time series model, a well-known statistical forecasting approach. Developed in Python, the application allows users to interactively select a store and product family, generate future demand forecasts, and visualize trends to aid inventory planning and supply chain decisions.
 
 🎯Project Objective
